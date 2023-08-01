@@ -9,4 +9,5 @@
 - Pandas
 - Numpy
 - Pickle
+
 **First we are doing Data Preprocessing and then Data Modeling. Also applied text vectorization on data.**
