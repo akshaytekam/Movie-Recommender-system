@@ -13,3 +13,5 @@
 **First we are doing Data Preprocessing and then Data Modeling. Also applied text vectorization on data.**
 
 **It makes use of APIs to show posters of each movie as well**
+
+**To Run Streamlit App:-  streamlit run app.py**
