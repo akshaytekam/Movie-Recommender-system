@@ -17,3 +17,5 @@
 **Dataset Link:- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**
 
 **To Run Streamlit App:-  streamlit run app.py**
+
+![recommender System Types](https://github.com/user-attachments/assets/11530571-b3f6-4d6e-a7c8-82bac3ed8263)
