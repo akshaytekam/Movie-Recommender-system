@@ -14,4 +14,6 @@
 
 **It makes use of APIs to show posters of each movie as well**
 
+**Dataset Link:- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**
+
 **To Run Streamlit App:-  streamlit run app.py**
