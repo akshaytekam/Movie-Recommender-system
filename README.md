@@ -10,7 +10,7 @@
 - Numpy
 - Pickle
 
-**First we are doing Data Preprocessing and then Data Modeling. Also applied text vectorization on data.**
+**First we are doing Data Preprocessing and then Data Modeling. Also applied text vectorization on data. We can make use of CountVectorizer and Cosine Similarity like class from sklearn library.**
 
 **It makes use of APIs to show posters of each movie as well**
 
